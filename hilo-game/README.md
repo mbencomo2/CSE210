@@ -1,5 +1,5 @@
 # High or Lo?
-The rules are simple. Draw a card, and guess if the next card will be higher or lower in value. Guess correctly to eary 100 points, but guess incorrectly and lose 75 points. As long as you have points left you can continue playing. See how many rounds you can go!
+The rules are simple. Draw a card, and guess if the next card will be higher or lower in value. Guess correctly to earn 100 points, but guess incorrectly and lose 75 points. As long as you have points left you can continue playing. See how many rounds you can go!
 
 ## Getting Started
 ---
