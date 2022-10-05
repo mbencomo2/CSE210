@@ -16,7 +16,7 @@ project folder. Select the main module inside the cards folder and click the "ru
 The project files and folders are organized as follows:
 ```
 root                    (project root folder)
-+-- cards                (source code for game)
++-- cards               (source code for game)
   +-- game              (specific classes)
   +-- __main__.py       (program entry point)
 +-- README.md           (general info)
@@ -28,4 +28,5 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Matt Manley (manleym@byui.edu)
+* Matt Manly (manleym@byui.edu) - original dice game source
+* Matt Bencomo (ben22022@byui.edu) - cards game
